@@ -1,0 +1,26 @@
+{
+  "DashBar": {
+    "discovery": "Discovery",
+    "settings": "Settings"
+  },
+  "Settings": {
+    "name": {
+      "version": "Version",
+      "preferences": "Preferences",
+      "about": "About",
+      "theme": "Theme",
+      "language": "Language",
+      "nsfw": "NSFW (+18)"
+    },
+    "description": {
+      "preferences": "Manage your personal settings and preferences.",
+      "discovery": "Manage the discovery search system",
+      "about": "Learn more about the application, its features, and version information.",
+      "theme": "Change the application theme",
+      "language": "Change the language of application",
+      "version": "Stable {version}, ({date})",
+      "nsfw": "Show on Discover"
+    }
+  }
+}
+  
