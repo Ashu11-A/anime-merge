@@ -1,0 +1,12 @@
+{
+  "name": "subtitles",
+  "module": "src/index.ts",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

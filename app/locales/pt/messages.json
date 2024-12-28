@@ -1,0 +1,31 @@
+{
+  "translation": {
+    "sidebar": {
+      "explore": "Explorar",
+      "settings": "Configurações"
+    },
+    "settings": {
+      "name": {
+        "version": "Versão",
+        "preferences": "Preferências",
+        "about": "Sobre",
+        "theme": "Tema",
+        "language": "Idioma",
+        "nsfw": "NSFW (+18)"
+      },
+      "description": {
+        "preferences": "Gerencie suas configurações e preferências pessoais.",
+        "explore": "Gerenciar sistema do explorar",
+        "about": "Saiba mais sobre o aplicativo, seus recursos e informações sobre a versão.",
+        "theme": "Alterar o tema do aplicativo",
+        "language": "Alterar o idioma do aplicativo",
+        "version": "Estável {version}, ({date})",
+        "nsfw": "Mostrar no explorar"
+      }
+    },
+    "splashscreen": {
+      "downloading": "Baixando",
+      "speed": "Velocidade"
+    }
+  }
+}

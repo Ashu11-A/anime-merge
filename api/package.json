@@ -1,0 +1,20 @@
+{
+  "name": "api",
+  "module": "src/app.ts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run src/app.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@types/webtorrent": "^0.110.0",
+    "nyaa": "workspace:../packages/nyaa.si",
+    "webtorrent": "^2.5.10"
+  }
+}

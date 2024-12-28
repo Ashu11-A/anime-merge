@@ -1,0 +1,32 @@
+{
+  "translation": {
+    "sidebar": {
+      "explore": "Explore",
+      "settings": "Settings"
+    },
+    "settings": {
+      "name": {
+        "version": "Version",
+        "preferences": "Preferences",
+        "about": "About",
+        "theme": "Theme",
+        "language": "Language",
+        "nsfw": "NSFW (+18)"
+      },
+      "description": {
+        "preferences": "Manage your personal settings and preferences.",
+        "explore": "Manage the explore search system",
+        "about": "Learn more about the application, its features, and version information.",
+        "theme": "Change the application theme",
+        "language": "Change the language of application",
+        "version": "Stable {version}, ({date})",
+        "nsfw": "Show on Discover"
+      }
+    },
+    "splashscreen": {
+      "downloading": "Downloading",
+      "speed": "Speed"
+    }
+  }
+}
+  
